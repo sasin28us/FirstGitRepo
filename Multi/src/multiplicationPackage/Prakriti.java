@@ -8,7 +8,7 @@ public class Prakriti {
 		
 	
 		Scanner obj = new Scanner(System.in);
-		System.out.println("Enter the first No : ");
+		System.out.println("Enter the first No1 : ");
 		double firstNo = obj.nextInt();
 		System.out.println("Enter the Second No : ");
 		double secondNo = obj.nextInt();
